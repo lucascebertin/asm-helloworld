@@ -9,3 +9,8 @@ OK, você deve estar se perguntando o motivo disso...
   - Encontrar falhas em softwares
   - Participar de CTF e não passar (muita) vergonha
 
+## Dependências
+  - yasm
+  - binutils (para obter o ld)
+  - lld (extensão para ld x86-64)
+  - Linux x86-64 (um termux no Android também funciona)
